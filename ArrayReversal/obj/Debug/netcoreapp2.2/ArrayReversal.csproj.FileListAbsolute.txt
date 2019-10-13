@@ -1,0 +1,11 @@
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\bin\Debug\netcoreapp2.2\ArrayReversal.deps.json
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\bin\Debug\netcoreapp2.2\ArrayReversal.runtimeconfig.json
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\bin\Debug\netcoreapp2.2\ArrayReversal.runtimeconfig.dev.json
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\bin\Debug\netcoreapp2.2\ArrayReversal.dll
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\bin\Debug\netcoreapp2.2\ArrayReversal.pdb
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\obj\Debug\netcoreapp2.2\ArrayReversal.csprojAssemblyReference.cache
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\obj\Debug\netcoreapp2.2\ArrayReversal.csproj.CoreCompileInputs.cache
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\obj\Debug\netcoreapp2.2\ArrayReversal.AssemblyInfoInputs.cache
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\obj\Debug\netcoreapp2.2\ArrayReversal.AssemblyInfo.cs
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\obj\Debug\netcoreapp2.2\ArrayReversal.dll
+C:\Users\Venus\source\repos\LinkedList\ArrayReversal\obj\Debug\netcoreapp2.2\ArrayReversal.pdb

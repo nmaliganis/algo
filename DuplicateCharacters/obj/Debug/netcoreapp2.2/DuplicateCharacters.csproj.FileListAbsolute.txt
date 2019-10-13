@@ -1,0 +1,10 @@
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\bin\Debug\netcoreapp2.2\DuplicateCharacters.deps.json
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\bin\Debug\netcoreapp2.2\DuplicateCharacters.runtimeconfig.json
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\bin\Debug\netcoreapp2.2\DuplicateCharacters.runtimeconfig.dev.json
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\bin\Debug\netcoreapp2.2\DuplicateCharacters.dll
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\bin\Debug\netcoreapp2.2\DuplicateCharacters.pdb
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\obj\Debug\netcoreapp2.2\DuplicateCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\obj\Debug\netcoreapp2.2\DuplicateCharacters.AssemblyInfoInputs.cache
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\obj\Debug\netcoreapp2.2\DuplicateCharacters.AssemblyInfo.cs
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\obj\Debug\netcoreapp2.2\DuplicateCharacters.dll
+C:\Users\Venus\source\repos\LinkedList\DuplicateCharacters\obj\Debug\netcoreapp2.2\DuplicateCharacters.pdb
